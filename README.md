@@ -38,20 +38,9 @@
 <br>
 
 <div align="left">
-  <a href="https://youtube.com/SEU_USER">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
-  </a>
 
   <a href="https://instagram.com/SEU_USER">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://twitch.tv/SEU_USER">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://discord.com/users/SEU_USER">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
   <a href="mailto:SEU_EMAIL">
