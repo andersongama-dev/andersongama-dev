@@ -37,17 +37,17 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
-  <a href="https://instagram.com/SEU_USER">
+  <a href="https://instagram.com/7andersonxz">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:andersongamasilva08@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
   </a>
 
-  <a href="https://linkedin.com/in/SEU_USER">
+  <a href="www.linkedin.com/in/anderson-gama-silva-ba4054384">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=fb7200&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
